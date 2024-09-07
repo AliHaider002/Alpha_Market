@@ -1,0 +1,9 @@
+numpy
+pandas
+yfinance
+matplotlib
+Cython
+convertdate
+lunarcalendar
+holidays
+fbprophet
